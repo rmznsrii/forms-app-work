@@ -57,6 +57,6 @@
 
         #endregion
 
-        public System.Windows.Forms.Label lblnameSurname;
+        public System.Windows.Forms.Label lblnameSurname; //Burada lblnameSurname labelini form1.cs içinde kullanmak için public yaptım.
     }
 }
