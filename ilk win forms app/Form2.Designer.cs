@@ -57,6 +57,6 @@
 
         #endregion
 
-        public System.Windows.Forms.Label lblnameSurname; //Burada form1.cs üzerinde form2 nesnesi olan labeli komutlarda görülebilmesi için, public olarak tanımlıyoruz.
+        public System.Windows.Forms.Label lblnameSurname; //Burada Form1.cs üzerinde Form2 nesnesi olan label'ın komutlarda görülebilmesi için, public olarak tanımlıyoruz.
     }
 }
